@@ -1,21 +1,21 @@
-# (Holloway) Chew, Kean Ho's  Visuals Arts Service Product Trademarks Logo 493x58 | (Holloway) Chew, Kean Ho's Visuals
+# (Holloway) Chew, Kean Ho's Creative Visuals Service Product Trademark Logo 493x58 | (Holloway) Chew, Kean Ho's Creative Visuals
 
 [![logo](/Pictures/banner_493x58.svg)](#)
 
-The (Holloway) Chew, Kean Ho Visuals Arts Service Product Trademarks Logo. They
-published clear trademark guideline and supplied the required material files for
-it here. The preferred version is `.svg` which has non-destructive scale up &
-down properties and can be converted into any rasterized images (e.g. `jpeg`,
-`webp`, `avif`, etc).
+The (Holloway) Chew, Kean Ho's Creative Visuals Service Product Trademark Logo.
+They published clear trademark guideline and supplied the required material
+files for it here. The preferred version is `.svg` which has non-destructive
+scale up & down properties and can be converted into any rasterized images
+(e.g. `jpeg`, `webp`, `avif`, etc).
 
-This project creates (Holloway) Chew, Kean Ho's Visuals Arts Service Product
-Trademarks Logo specifically for 493x58 size. This engineering specification is
+This project creates (Holloway) Chew, Kean Ho's Creative Visuals Service Product
+Trademark Logo specifically for 493x58 size. This engineering specification is
 mainly for Microsoft Software Installer (`.msi`) packaging deployment.
 
 For padding spacing, it is:
 
-* Horizontal: `10px` left + `80px` logo + `10px` right = `100px` total from left.
-* Vertical  : `center` with equal spacing from top and bottom.
+* Horizontal: `10px` left + `80px` logo + `10px` right = `100px` total from left
+* Vertical  : `center` with equal spacing from top and bottom
 
 ```
      10px      80px     10px
@@ -30,6 +30,7 @@ px |       +---------+        (Optional) Content Begins Here Centered Vertically
    |------|-----------|------|--->
      10px      80px     10px
 ```
+
 
 
 
@@ -116,7 +117,7 @@ Since (Holloway) Chew, Kean Ho published its brand and trademark guideline,
 * Standard Global Trademark Laws
 * Local Trademark Laws
 
-While not specified by (Holloway) Chew, Kean Ho, please ensure the outputs are
+While not specified by (Holloway) Chew, Kean Ho; please ensure the outputs are
 also web ready. Refer:
 
 * https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/How_to/Define_app_icons
@@ -199,7 +200,7 @@ Unless otherwise specified in writing, you **MUST** attribute back to the
 creator(s) as follows:
 
 ```
-Title: (Holloway) Chew, Kean Ho's Visuals Arts Service Product Trademarks Logo 493x58
+Title: (Holloway) Chew, Kean Ho's Creative Visuals Service Product Trademark Logo 493x58
 Creators: (Holloway) Chew, Kean Ho
 Contact: hello@chewkeanho.com
 SKU: chewkeanho-visuals-trademarks-chewkeanhovisuals-493x58
